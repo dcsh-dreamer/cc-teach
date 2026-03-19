@@ -3,3 +3,5 @@ assets/
 upload/
 __pycache__/
 db.sqlite3
+.venv/
+.vscode/
